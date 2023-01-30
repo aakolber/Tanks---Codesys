@@ -2,7 +2,7 @@
 
     Projects that demonstrate Codesys programming skills 
 
-- [TCP/IP project](#tcpip-project)
+- [CODESYS project](#tcpip-project)
   - [Main objectives](#main-objectives)
     - [YT film](#yt-film)
     - [Description](#description)
