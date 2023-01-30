@@ -1,4 +1,4 @@
-# TCP/IP project #
+# CODESYS project #
 
     Projects that demonstrate Codesys programming skills 
 
